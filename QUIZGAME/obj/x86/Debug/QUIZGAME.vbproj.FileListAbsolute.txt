@@ -1,0 +1,16 @@
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\bin\Debug\data.mdb
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\bin\Debug\QUIZGAME.exe
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\bin\Debug\QUIZGAME.pdb
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\bin\Debug\QUIZGAME.xml
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\obj\x86\Debug\QUIZGAME.Form1.resources
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\obj\x86\Debug\QUIZGAME.Form2.resources
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\obj\x86\Debug\QUIZGAME.Form3.resources
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\obj\x86\Debug\QUIZGAME.Form4.resources
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\obj\x86\Debug\QUIZGAME.Form5.resources
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\obj\x86\Debug\QUIZGAME.Resources.resources
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\obj\x86\Debug\QUIZGAME.exe
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\obj\x86\Debug\QUIZGAME.xml
+C:\Users\Aniket\Documents\Visual Studio 2010\Projects\QUIZGAME\QUIZGAME\obj\x86\Debug\QUIZGAME.pdb
